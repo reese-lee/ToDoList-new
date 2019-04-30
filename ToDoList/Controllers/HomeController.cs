@@ -11,10 +11,10 @@ namespace ToDoList.Controllers
         return View();
       }
 
-      public ActionResult Index()
-      {
-        return new EmptyResult();
-      }
+      // public ActionResult Index()
+      // {
+      //   return new EmptyResult();
+      // }
 
     }
 }
